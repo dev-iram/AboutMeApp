@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMeApp</string>
+    <string name="yellow_star" />
+    <string name="name">Dev Iram</string>
+    <string name="bio">My name is Iram.
+        \n I am 28 years old.
+        \n I work as an android developer for a big airline!
+        \n It\'s a very exciting job as I love aviation!
+        \n\n Unrelated, but I also love cats.
+        \n Cats are like the best thing to happen to us (humans), like… ever.
+        \n \n We\'re so lucky that cats exist.
+        \n They\'re cute little balls of fluff. I love them so much.
+        \n\n I have one cat, her name is Olive. She was named that because she has beautiful olive green eyes.
+        \n \n I didn't name her - I got her from an animal shelter. I don't believe in buying pets, when there's
+        so many available and without homes.
+        \n I'd totally recommend fostering and adopting a cat any day of the week.
+        \\n n I have fostered many cats over the years... \n All cute. Don't worry. (It's impossible for a cat not to be cute)
+    </string>
+</resources>
